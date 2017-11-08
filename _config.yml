@@ -2,7 +2,7 @@ title: Milab Blog
 description: The whacky adventures of Project 2
 show_downloads: true
 
-baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "/milab-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://idowolf.github.io" # change this to the base hostname & protocol for your site
 
 email: idowolf@gmail.com
