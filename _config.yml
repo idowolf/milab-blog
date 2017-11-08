@@ -1,5 +1,5 @@
 title: Milab Blog
-description: The whacky adventures of Project 2
+description: The wacky adventures of Project 2
 show_downloads: false
 
 baseurl: "/milab-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
